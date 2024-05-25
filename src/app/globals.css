@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-primary{
+  background-color: #26bc7f;
+}
+.bg-secondary{
+  background-color: #00b291;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+body {
+box-sizing: border-box;
+margin: auto;
+min-width: 320px;
+}
+
+.main-bg {
+  max-width: 1200px;
+  margin: auto;
+}
+.text-max-w {
+  max-width: 670px;
+  max-height: 530px;
+}
+
+
+
