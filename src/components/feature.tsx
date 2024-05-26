@@ -12,9 +12,9 @@ export default function Feature() {
                 Habilidades y Estudios
               </h2>
               <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug.
+                Durante mis estudios, me he centrado en el desarrollo web,
+                especializándome en optimización del rendimiento y SEO para
+                asegurar sitios rápidos y bien posicionados en buscadores.
               </p>
               <div className="flex mt-6 justify-center">
                 <div className="w-16 h-1 rounded-full bg-green-700 inline-flex"></div>
@@ -29,7 +29,12 @@ export default function Feature() {
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                     width={96}
                     height={80}
-                    style={{ width: "auto", height: "auto", maxWidth: "96px", maxHeight: "80px" }}
+                    style={{
+                      width: "auto",
+                      height: "auto",
+                      maxWidth: "96px",
+                      maxHeight: "80px",
+                    }}
                   />
                 </figure>
                 <div className="flex-grow">
@@ -74,7 +79,12 @@ export default function Feature() {
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                     width={96}
                     height={80}
-                    style={{ width: "auto", height: "auto", maxWidth: "96px", maxHeight: "80px" }}
+                    style={{
+                      width: "auto",
+                      height: "auto",
+                      maxWidth: "96px",
+                      maxHeight: "80px",
+                    }}
                   />
                 </figure>
                 <div className="flex-grow">
@@ -119,7 +129,12 @@ export default function Feature() {
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                     width={96}
                     height={80}
-                    style={{ width: "auto", height: "auto", maxWidth: "96px", maxHeight: "80px" }}
+                    style={{
+                      width: "auto",
+                      height: "auto",
+                      maxWidth: "96px",
+                      maxHeight: "80px",
+                    }}
                   />
                 </figure>
                 <div className="flex-grow">
@@ -128,10 +143,11 @@ export default function Feature() {
                   </h2>
                   <p className="leading-relaxed text-base text-left">
                     La Academia BIG SEO se centra en la formación online en
-                    Marketing Digital. Ofrece cursos especializados que puedes seguir a tu
-                    ritmo y desde cualquier lugar. Se destaca por su soporte
-                    directo con profesores y profesionales activos en el campo del SEO,
-                    proporcionando una enseñanza práctica y realista.
+                    Marketing Digital. Ofrece cursos especializados que puedes
+                    seguir a tu ritmo y desde cualquier lugar. Se destaca por su
+                    soporte directo con profesores y profesionales activos en el
+                    campo del SEO, proporcionando una enseñanza práctica y
+                    realista.
                   </p>
                   <Link
                     href="https://bigseo.com/"

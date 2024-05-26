@@ -46,7 +46,7 @@ export default function Form() {
                     htmlFor="name"
                     className="leading-7 text-sm text-gray-600"
                   >
-                    Nambre
+                    Nombre
                   </label>
                   <input
                     type="text"

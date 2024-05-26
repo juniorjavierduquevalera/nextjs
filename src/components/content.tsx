@@ -15,7 +15,7 @@ export default function Content() {
                     src="/desarrollo-web-y-seo.png"
                     alt="Desarrollo Web y SEO"
                     fill
-                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"          
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   />
                 </div>
                 <div>
@@ -30,12 +30,13 @@ export default function Content() {
                   <p className="lg:w-3/4 text-left lg:ml-auto leading-relaxed text-base">
                     Con experiencia en el campo del <strong>SEO</strong> y
                     desarrollo web, me especializo en la optimización de sitios
-                    para plataformas como <strong>eBay</strong>,
-                    <strong>Amazon</strong>, <strong>YouTube</strong> e
+                    para plataformas como <strong>eBay</strong>,{" "}
+                    <strong>Amazon</strong>, <strong>YouTube</strong> e{" "}
                     <strong>Instagram</strong>, así como en el desarrollo de
-                    aplicaciones web en <strong>React</strong> y CMS como
+                    aplicaciones web en <strong>React</strong> y CMS como{" "}
                     <strong>WordPress</strong>.
                   </p>
+
                   <br />
                   <p className="lg:w-3/4 text-left lg:ml-auto leading-relaxed text-base">
                     Mi enfoque está en aumentar la
@@ -73,15 +74,14 @@ export default function Content() {
                 </section>
                 <section>
                   <p className="leading-relaxed text-base mb-4">
-                    Diseños de <strong>Interfaces de usuarios</strong> en
-                    <strong>Figma</strong> y diseños óptimos para
-                    <strong> campañas</strong> en{" "}
-                    <strong>Redes Sociales</strong> y <strong>Ecommerce</strong>
-                    , para las siguientes plataformas:{" "}
-                    <strong>Instagram</strong>, <strong>Youtube</strong>,
-                    <strong>eBay</strong>, <strong>Amazon</strong>,
-                    <strong>LinkedIn</strong>, <strong>Facebook</strong>,
-                    <strong>Marketplace</strong>.
+                    Diseños de <strong>Interfaces de usuarios</strong> en{" "}
+                    <strong>Figma</strong> y diseños óptimos para{" "}
+                    <strong>campañas</strong> en <strong>Redes Sociales</strong>{" "}
+                    y <strong>Ecommerce</strong>, para las siguientes
+                    plataformas: <strong>Instagram</strong>,{" "}
+                    <strong>Youtube</strong>, <strong>eBay</strong>,{" "}
+                    <strong>Amazon</strong>, <strong>LinkedIn</strong>,{" "}
+                    <strong>Facebook</strong>, <strong>Marketplace</strong>.
                   </p>
                 </section>
                 <Link
@@ -207,16 +207,13 @@ export default function Content() {
                 </section>
                 <p className="leading-relaxed text-base mb-4">
                   Desarrollo <strong>estrategias de SEO de contenido</strong>,
-                  centrando mis esfuerzos en la
-                  <strong>
-                    {" "}
-                    investigación profunda de palabras clave
-                  </strong>{" "}
-                  para crear <strong>contenidos</strong> que resonarán con tu
+                  centrando mis esfuerzos en la{" "}
+                  <strong>investigación profunda de palabras clave</strong> para
+                  crear <strong>contenidos</strong> que resonarán con tu{" "}
                   <strong>público objetivo</strong>. Mi objetivo es producir
                   material <strong>relevante</strong> y{" "}
-                  <strong>optimizado</strong> que mejore tu
-                  <strong>visibilidad en línea</strong> y atraiga
+                  <strong>optimizado</strong> que mejore tu{" "}
+                  <strong>visibilidad en línea</strong> y atraiga{" "}
                   <strong>tráfico cualificado</strong>.
                 </p>
                 <Link
